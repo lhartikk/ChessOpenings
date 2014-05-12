@@ -1,0 +1,411 @@
+{
+    "move": "",
+    "children": [{
+        "move": "d4",
+        "children": [{
+            "move": "d5",
+            "name": "Closed Game",
+            "link": "http://en.wikipedia.org/wiki/Closed_Game",
+            "children": [{
+                "move": "c4",
+                "name": "Queens Gambit",
+                "link": "http://en.wikipedia.org/wiki/Queen's_Gambit",
+                "children": [{
+                    "move": "dcx4",
+                    "name": "QGA",
+                    "link": "http://en.wikipedia.org/wiki/Queen's_Gambit_Accepted"
+                }, {
+                    "move": "e4",
+                    "name": "GQD",
+                    "link": "http://en.wikipedia.org/wiki/Queen's_Gambit_Declined"
+
+                }, {
+                    "move": "c4",
+                    "name": "Slav Defence",
+                    "link": "http://en.wikipedia.org/wiki/Slav_Defense"
+                }, {
+                    "move": "Nc6",
+                    "name": "Chigorin defence",
+                    "link": "http://en.wikipedia.org/wiki/Chigorin_Defense"
+                }, {
+                    "move": "c5",
+                    "name": "Symmetrical Defence",
+                    "link": "http://en.wikipedia.org/wiki/Symmetrical_Defense"
+                }, {
+                    "move": "e5",
+                    "name": "Albin Countergambit",
+                    "link": "http://en.wikipedia.org/wiki/Albin_Countergambit"
+                }]
+            }, {
+                "move": "c4",
+                "name": "London System",
+                "link": "http://en.wikipedia.org/wiki/London_System"
+            }]
+        }, {
+            "move": "Nf6",
+            "name": "Indian Defence",
+            "link": "http://en.wikipedia.org/wiki/Indian_Defence",
+            "children": [{
+                "move": "c4",
+                "children": [{
+                    "move": "Nc6",
+                    "name": "Black Knights' Tango",
+                    "link": "http://en.wikipedia.org/wiki/Black_Knights'_Tango"
+                }, {
+                    "move": "e5",
+                    "name": "Budapest Gambit",
+                    "link": "http://en.wikipedia.org/wiki/Budapest_Gambit"
+                }, {
+                    "move": "e6",
+                    "children": [{
+                        "move": "Nc3",
+                        "children": [{
+                            "move": "Bc4",
+                            "name": "Nimzo-Indian Defence",
+                            "link": "http://en.wikipedia.org/wiki/Nimzo-Indian_Defence",
+                            "children": [{
+                                "move": "e3",
+                                "name": "Rubinstein System",
+                                "link": "http://en.wikipedia.org/wiki/Nimzo-Indian_Defence#Rubinstein_System:_4.e3"
+                            }, {
+                                "move": "Qc2",
+                                "name": "Classical",
+                                "link": "http://en.wikipedia.org/wiki/Nimzo-Indian_Defence#Classical_Variation:_4.Qc2"
+                            }, {
+                                "move": "Nf3",
+                                "name": "Kasparov",
+                                "link": "http://en.wikipedia.org/wiki/Nimzo-Indian_Defence#Kasparov_Variation:_4.Nf3"
+                            }, {
+                                "move": "Bg5",
+                                "name": "Leningrad Variation",
+                                "link": "http://en.wikipedia.org/wiki/Nimzo-Indian_Defence#Other_variations"
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "move": "Bg5",
+                "name": "Trompowsky Attack",
+                "link": "http://en.wikipedia.org/wiki/Trompowsky_Attack"
+            }]
+        }, {
+            "move": "f6",
+            "name": "Dutch Defence",
+            "link": "http://en.wikipedia.org/wiki/Dutch_Defence",
+            "children": [{
+                "move": "e4",
+                "name": "Staunton Gambit",
+                "link": "http://en.wikipedia.org/wiki/Staunton_Gambit"
+            }, {
+                "move": "c4",
+                "name": "Traditional",
+                "link": "http://en.wikipedia.org/wiki/Dutch_Defence#White_continuations"
+            }]
+        }, {
+            "move": "c5",
+            "children": [{
+                "move": "d5",
+                "name": "Old Benoni",
+                "link": "http://en.wikipedia.org/wiki/Benoni_Defense"
+            }]
+        }]
+    }, {
+        "move": "e4",
+        "children": [{
+            "move": "e6",
+            "name": "French Defence",
+            "link": "http://en.wikipedia.org/wiki/French_Defence",
+            "children": [{
+                "move": "d4",
+                "children": [{
+                    "move": "d5",
+                    "name": "Main line",
+                    "link": "http://en.wikipedia.org/wiki/French_Defense#Main_line:_2.d4_d5",
+                    "children": [{
+                        "move": "Nc3",
+                        "children": [{
+                            "move": "dxe4",
+                            "name": "Rubinstein",
+                            "link": "http://en.wikipedia.org/wiki/French_Defense#Rubinstein_Variation:_3...dxe4"
+                        }, {
+                            "move": "Bb4",
+                            "name": "Winawer",
+                            "link": "http://en.wikipedia.org/wiki/French_Defense#Winawer_Variation:_3...Bb4"
+                        }]
+
+                    }, {
+                        "move": "Nd2",
+                        "name": "Tarrasch",
+                        "link": "http://en.wikipedia.org/wiki/French_Defense#Tarrasch_Variation:_3.Nd2"
+                    }, {
+                        "move": "exd5",
+                        "children": [{
+                            "move": "exd5",
+                            "name": "Exchange",
+                            "link": "http://en.wikipedia.org/wiki/French_Defense#Exchange_Variation:_3.exd5_exd5"
+                        }]
+                    }, {
+                        "move": "e5",
+                        "name": "Advance",
+                        "link": "http://en.wikipedia.org/wiki/French_Defense#Advance_Variation:_3.e5"
+                    }]
+                }]
+            }, {
+                "move": "f4",
+                "name": "Labourdonnais",
+                "link": "http://en.wikipedia.org/wiki/French_Defence#Early_deviations_for_White"
+            }]
+        }, {
+            "move": "c6",
+            "name": "Caro-Kann Defence",
+            "link": "http://en.wikipedia.org/wiki/Caro-Kann_Defence",
+            "children": [{
+                "move": "d4",
+                "children": [{
+                    "move": "d5",
+                    "name": "Main line",
+                    "link": "http://en.wikipedia.org/wiki/Caro-Kann_Defence#Main_line:_2.d4_d5",
+                    "children": [{
+                        "move": "Nc3",
+                        "children": [{
+                            "move": "dxe4",
+                            "children": [{
+                                "move": "Nxe4",
+                                "children": [{
+                                    "move": "Bf5",
+                                    "name": "Classical",
+                                    "link": "http://en.wikipedia.org/wiki/Caro-Kann_Defence#Classical_Variation:_4...Bf5"
+                                }, {
+                                    "move": "Nd7",
+                                    "name": "Modern",
+                                    "link": "http://en.wikipedia.org/wiki/Caro-Kann_Defence#Modern_Variation:_4...Nd7"
+                                }]
+                            }]
+                        }]
+                    }, {
+                        "move": "e5",
+                        "name": "Advance",
+                        "link": "http://en.wikipedia.org/wiki/Caro-Kann_Defence#Advance_Variation:_3.e5"
+                    }]
+                }]
+            }, {
+                "move": "Bc4",
+                "name": "Hillbilly Attack",
+                "link": "http://en.wikipedia.org/wiki/Caro-Kann_Defence#Other_lines"
+            }]
+        }, {
+            "move": "e5",
+            "name": "Open Game",
+            "link": "http://en.wikipedia.org/wiki/Open_Game",
+            "children": [{
+                "move": "f4",
+                "name": "King's gambit",
+                "link": "http://en.wikipedia.org/wiki/King's_Gambit",
+                "children": [{
+                    "move": "exf4",
+                    "name": "KGA",
+                    "link": "http://en.wikipedia.org/wiki/King's_Gambit#King.27s_Gambit_Accepted:_2...exf4",
+                    "children": [{
+                        "move": "Nf3",
+                        "name": "King Knight's Gambit",
+                        "link": "http://en.wikipedia.org/wiki/King's_Gambit#King_Knight.27s_Gambit:_3.Nf3",
+                        "children": [{
+                            "move": "g5",
+                            "name": "Classical",
+                            "link": "http://en.wikipedia.org/wiki/King's_Gambit#Classical_Variation:_3...g5"
+                        }, {
+                            "move": "h6",
+                            "name": "Becker Defence",
+                            "link": "http://en.wikipedia.org/wiki/King's_Gambit#Becker_Defence:_3...h6"
+                        }, {
+                            "move": "d5",
+                            "name": "Modern Defence",
+                            "link": "http://en.wikipedia.org/wiki/King's_Gambit#Modern_Defence:_3...d5"
+                        }, {
+                            "move": "d6",
+                            "name": "Fischer Defence",
+                            "link": "http://en.wikipedia.org/wiki/King%27s_Gambit,_Fischer_Defense"
+                        }]
+                    }, {
+                        "move": "Bc4",
+                        "name": "Bishop's Gambit",
+                        "link": "http://en.wikipedia.org/wiki/King's_Gambit#King.27s_Gambit_Accepted:_2...exf4"
+                    }]
+                }, {
+                    "move": "Bc4",
+                    "name": "KGD",
+                    "link": "http://en.wikipedia.org/wiki/King's_Gambit#Classical_Defence:_2...Bc5"
+                }, {
+                    "move": "d5",
+                    "name": "Falkbeer Countergambit",
+                    "link": "http://en.wikipedia.org/wiki/King%27s_Gambit,_Falkbeer_Countergambit"
+                }]
+            }, {
+                "move": "c3",
+                "name": "Lopez Openging",
+                "link": "http://en.wikipedia.org/wiki/Lopez_Opening"
+            }, {
+                "move": "Nf3",
+                "children": [{
+                    "move": "d5",
+                    "name": "Elephant Gambit",
+                    "link": "http://en.wikipedia.org/wiki/Elephant_Gambit"
+                }, {
+                    "move": "Nc6",
+                    "children": [{
+                        "move": "Bb5",
+                        "name": "Ruy Lopez",
+                        "link": "http://en.wikipedia.org/wiki/Ruy_Lopez",
+                        "children": [{
+                            "move": "a6",
+                            "name": "Morphy Defence",
+                            "link": "http://en.wikipedia.org/wiki/Ruy_Lopez#Morphy_Defence:_3...a6"
+                        }, {
+                            "move": "Nf6",
+                            "name": "Berlin Defence",
+                            "link": "http://en.wikipedia.org/wiki/Ruy_Lopez#Berlin_Defence:_3...Nf6"
+                        }, {
+                            "move": "f5",
+                            "name": "Schliemann Defence",
+                            "link": "http://en.wikipedia.org/wiki/Ruy_Lopez#Schliemann_Defence:_3...f5"
+                        }, {
+                            "move": "Bc5",
+                            "name": "Classical Defence",
+                            "link": "http://en.wikipedia.org/wiki/Ruy_Lopez#Classical_Defence:_3...Bc5"
+                        }]
+                    }, {
+                        "move": "c3",
+                        "name": "Ponziani Opening",
+                        "link": "http://en.wikipedia.org/wiki/Ponziani_Opening"
+                    }]
+                }, {
+                    "move": "Bc4",
+                    "name": "Italian Game",
+                    "link": "http://en.wikipedia.org/wiki/Italian_Game"
+                }, {
+                    "move": "d4",
+                    "name": "Scotch Game",
+                    "link": "http://en.wikipedia.org/wiki/Scotch_Game"
+                }]
+            }, {
+                "move": "Nc3",
+                "name": "Vienna Game",
+                "link": "http://en.wikipedia.org/wiki/Vienna_Game"
+            }]
+        }, {
+            "move": "d5",
+            "name": "Scandinavian Defense",
+            "link": "http://en.wikipedia.org/wiki/Scandinavian_Defense",
+            "children": [{
+                "move": "exd5",
+                "children": [{
+                    "move": "Qxd5",
+                    "children": [{
+                        "move": "Nc3",
+                        "children": [{
+                            "move": "Qa5",
+                            "name": "Classical",
+                            "link": "http://en.wikipedia.org/wiki/Scandinavian_Defense#2...Qxd5"
+                        }, {
+                            "move": "Qd6",
+                            "name": "Pytel",
+                            "link": "http://en.wikipedia.org/wiki/Scandinavian_Defense#2...Qxd5"
+                        }]
+                    }]
+                }, {
+                    "move": "Nf6",
+                    "name": "Marshall Gambit",
+                    "link": "http://en.wikipedia.org/wiki/Scandinavian_Defense#2...Nf6"
+                }]
+            }, {
+                "move": "Nc3",
+                "name": "Alternative",
+                "link": "http://en.wikipedia.org/wiki/Scandinavian_Defense#Alternatives_to_2.exd5"
+            }]
+        }, {
+            "move": "c5",
+            "name": "Sicilian Defence",
+            "link": "http://en.wikipedia.org/wiki/Scandinavian_Defense",
+            "children": [{
+                "move": "Nc3",
+                "name": "Closed Sicilian",
+                "link": "http://en.wikipedia.org/wiki/Sicilian_Defence#Closed_Sicilian"
+            }, {
+                "move": "Nf3",
+                "children": [{
+                    "move": "d6",
+                    "children": [{
+                        "move": "d4",
+                        "children": [{
+                            "move": "cxd4",
+                            "children": [{
+                                "move": "Nxd4",
+                                "children": [{
+                                    "move": "Nf6",
+                                    "children": [{
+                                        "move": "Nc3",
+                                        "children": [{
+                                            "move": "a6",
+                                            "name": "Najdorf",
+                                            "link": "http://en.wikipedia.org/wiki/Sicilian_Defence,_Najdorf_Variation"
+                                        }, {
+                                            "move": "g6",
+                                            "name": "Dragon",
+                                            "link": "http://en.wikipedia.org/wiki/Sicilian_Defence,_Dragon_Variation"
+                                        }, {
+                                            "move": "Nc6",
+                                            "name": "Classical",
+                                            "link": "http://en.wikipedia.org/wiki/Sicilian_Defence#Classical_Variation:_5...Nc6"
+                                        }, {
+                                            "move": "e6",
+                                            "name": "Scheveningen",
+                                            "link": "http://en.wikipedia.org/wiki/Sicilian_Defence,_Scheveningen_Variation"
+                                        }]
+                                    }]
+                                }]
+                            }]
+                        }]
+                    }]
+                }, {
+                    "move": "Nc6",
+                    "children": [{
+                        "move": "d4",
+                        "children": [{
+                            "move": "cxd4",
+                            "children": [{
+                                "move": "g6",
+                                "name": "Accelerated Dragon",
+                                "link": "http://en.wikipedia.org/wiki/Sicilian_Defence,_Accelerated_Dragon"
+                            }, {
+                                "move": "Nxd4",
+                                "children": [{
+                                    "move": "e6",
+                                    "name": "Taimanov",
+                                    "link": "http://en.wikipedia.org/wiki/Sicilian_Defence#Taimanov_Variation:_4...Nc6"
+                                }]
+                            }]
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "move": "c6",
+            "name": "Pirk Defence",
+            "link": "http://en.wikipedia.org/wiki/Pirc_Defence"
+
+        }]
+    }, {
+        "move": "c4",
+        "name": "English Opening",
+        "link": "http://en.wikipedia.org/wiki/English_Opening",
+        "children": [{
+            "move": "c5",
+            "name": "Symmetrical Defence",
+            "link": "http://en.wikipedia.org/wiki/English_Opening#Symmetrical_Defense:_1...c5"
+        }, {
+            "move": "e5",
+            "name": "Reversed Sicilian",
+            "link": "http://en.wikipedia.org/wiki/English_Opening#Reversed_Sicilian:_1...e5"
+        }]
+    }]
+}
