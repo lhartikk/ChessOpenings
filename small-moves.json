@@ -1,0 +1,43 @@
+{
+    "move": "",
+    "children": [{
+        "move": "e4",
+        "children": [{
+            "move": "c6",
+            "name": "Caro-Kann Defence",
+            "link": "http://en.wikipedia.org/wiki/Caro-Kann_Defence"
+        }, {
+            "move": "c5",
+            "name": "Sicilian Defence",
+            "link": "http://en.wikipedia.org/wiki/Scandinavian_Defense",
+            "children": [{
+                "move": "Nc3",
+                "name": "Closed Sicilian",
+                "link": "http://en.wikipedia.org/wiki/Sicilian_Defence#Closed_Sicilian"
+            }, {
+                "move": "Nf3",
+                "children": [ {
+                    "move": "Nc6",
+                    "children": [{
+                        "move": "d4",
+                        "children": [{
+                            "move": "cxd4",
+                            "children": [{
+                                "move": "g6",
+                                "name": "Accelerated Dragon",
+                                "link": "http://en.wikipedia.org/wiki/Sicilian_Defence,_Accelerated_Dragon"
+                            }, {
+                                "move": "Nxd4",
+                                "children": [{
+                                    "move": "e6",
+                                    "name": "Taimanov",
+                                    "link": "http://en.wikipedia.org/wiki/Sicilian_Defence#Taimanov_Variation:_4...Nc6"
+                                }]
+                            }]
+                        }]
+                    }]
+                }]
+            }]
+        }]
+    }]
+}
